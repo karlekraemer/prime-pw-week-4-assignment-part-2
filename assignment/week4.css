@@ -1,0 +1,14 @@
+/* Give your page a fun background color */
+body { background-color: olivedrab; }
+
+/* Make the header and footer a different color from the background */
+h1 { background-color: burlywood; color: black; }
+p { background-color: black; color: goldenrod; font-style: italic; }
+/* Align the h1 containing your name in the center of the header*/
+h1 { text-align: center }
+/* Make your p tag a different color and italic */
+
+/* Put a border around your image */
+img { order: 5px solid #555;}
+/* Change the font-family of your list */
+li { font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; }
